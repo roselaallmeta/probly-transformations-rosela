@@ -12,3 +12,10 @@ I worked mainly on:
 - Implementing and testing **evidential classification transformations**
 - Calculating and visualizing **uncertainty metrics** (total, aleatoric, epistemic)
 - Creating **Jupyter notebooks** that explain these transformations and how they behave in practice
+
+
+
+### Tech Stack
+- Python (PyTorch, JAX, NumPy)
+- Matplotlib, Seaborn (visualization)
+- pytest (testing), Git (version control)
